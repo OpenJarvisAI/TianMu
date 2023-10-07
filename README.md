@@ -1,25 +1,19 @@
 
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
   <a href="https://github.com/OpenJarvisAI/TianMu">
-    <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_20_50_47_icon_128x128%25402x%25401x.png" alt="Logo" width="80" height="80">
+    <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_0_52_icon_256x256.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Tianmu</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A brand new AI chatting tools available on macOS, Android, iOS, and Windows!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://g.manaai.cn"><strong>Explore website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -29,3 +23,64 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
+
+> 🎉🎊 Code is coming soon! Don't forget to star and subscribe for updates! 🎉🎊
+
+## About Tianmu
+
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_58_36_1.gif" style="border-radius: 20px;">
+
+
+There are plenty of ChatGPT vendor website for users to use. But none of theme really convenient to use on desktop direclty.
+
+Some of them like ChatBox are pretty good, but the UI is outdated, and there are some limitations on how people share their prompts (commands). Also, it doesn't work well with some OpenSource LLM like 通义千问，文心一言 etc.
+
+
+Here's how Tianmu outstanding:
+* You can have one LLM controller on one single app, Tianmu aavaible for iOS, android, macOS and Windows;
+* You can use it like **anywhere and anytime**, on macOS, you just press `alt + 1`, the window will popsup ready for your services!
+* You can have all controls on your models, you can using Tianmu's LLM, or using your own, just with your OpenAI api key!
+* You will have a very smooth and extremly beautiful expirenece on iOS and Android for Mobile! It just like ChatGPT APP!
+
+
+And finally, this tool is opensource! You can make any modifications on your own!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## ScreenShots
+
+
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_17_50_10%E6%9C%886%E6%97%A5%20(1)(1).gif" style="border-radius: 10px;">
+
+
+**Tianmu** makes your AI commands and usage more useful, every commands is just feel like on your finger.
+
+
+Screenshots on Mobile APPs.
+
+![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_32_6_202310072232467.png)  | ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_32_34_202310072232167.png)
+:-------------------------:|:-------------------------:
+![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_34_16_202310072234717.png)  | ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_34_55_202310072234671.png) 
+![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_29_25_20231007222924.png)  | ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_31_20_202310072231718.png) 
+![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_35_35_202310072235808.png)  | ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_36_6_202310072236600.png) 
+
+
+## Download
+
+Currently, we released android prebuilt apk, you can download from: https://g.manaai.cn directly.
+
+**Android**: https://g.manaai.cn
+
+**macOS**: stay tuned, will release in github release, plese **star** this repo;
+
+**windows**: stay tuned, will release in github release, plese **star** this repo;
+
+**iOS**: will be on APP store soon, name: 【天幕】
+
+
+## Copyright
+
+
+All rights reserved by Tianmu team @ 2023.
+

@@ -27,8 +27,8 @@
 > 🎉🎊 Code is coming soon! Don't forget to star and subscribe for updates! 🎉🎊
 
 ## About Tianmu
-
-<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_58_36_1.gif" style="border-radius: 20px;">
+<div align="center">
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_58_36_1.gif" style="border-radius: 20px;"></div>
 
 
 There are plenty of ChatGPT vendor website for users to use. But none of theme really convenient to use on desktop direclty.
@@ -50,8 +50,9 @@ And finally, this tool is opensource! You can make any modifications on your own
 
 ## ScreenShots
 
-
+<div align="center">
 <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_17_50_10%E6%9C%886%E6%97%A5%20(1)(1).gif" style="border-radius: 10px;">
+</div>
 
 
 **Tianmu** makes your AI commands and usage more useful, every commands is just feel like on your finger.

@@ -29,8 +29,9 @@
 
 ## About Tianmu
 
+<div align="center">
 <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_58_36_1.gif" style="border-radius: 20px;">
-
+</div>
 
 有很多ChatGPT供应商网站供用户使用。但是，没有一个能够直接在桌面上使用得非常方便。
 其中一些像ChatBox非常好，但UI过时，并且在人们分享他们的提示（命令）方面存在一些限制。此外，它与一些开源LLM（如通义千问，文心一言等）配合不佳。
@@ -50,7 +51,9 @@
 ## ScreenShots
 
 
+<div align="center">
 <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_17_50_10%E6%9C%886%E6%97%A5%20(1)(1).gif" style="border-radius: 10px;">
+</div>
 
 
 **天幕** 让你的AI指令和使用更加实用，每个指令就像在你的指尖一样。

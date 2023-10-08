@@ -13,7 +13,7 @@
   <p align="center">
     A brand new AI chatting tools available on macOS, Android, iOS, and Windows!
     <br />
-    <a href="https://g.manaai.cn"><strong>Explore website »</strong></a>
+    <a href="https://g.manaai.cn"><strong>Explore website »</strong></a> | <a href="README_CN.md"><strong>简体中文</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>

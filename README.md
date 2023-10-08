@@ -48,6 +48,35 @@ And finally, this tool is opensource! You can make any modifications on your own
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Download
+
+Currently, we released android prebuilt apk, you can download from: https://g.manaai.cn directly.
+
+**Android**: https://g.manaai.cn
+
+**macOS**: it now available on https://g.manaai.cn;
+
+**windows**: stay tuned, will release in github release, plese **star** this repo;
+
+**iOS**: will be on APP store soon, name: 【天幕】
+
+
+## Contact
+
+WeChat official account:
+
+<div align="center">
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/09/10_18_11_20_202309101811096.png" style="border-radius: 10px;">
+</div>
+
+WeChat Group:
+
+<div align="center">
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/8_10_58_40_1011696733902_.pic.jpg" style="border-radius: 10px;">
+</div>
+
+
+
 ## ScreenShots
 
 <div align="center">
@@ -67,17 +96,9 @@ Screenshots on Mobile APPs.
 ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_35_35_202310072235808.png)  | ![images](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_22_36_6_202310072236600.png) 
 
 
-## Download
 
-Currently, we released android prebuilt apk, you can download from: https://g.manaai.cn directly.
 
-**Android**: https://g.manaai.cn
 
-**macOS**: it now available on https://g.manaai.cn;
-
-**windows**: stay tuned, will release in github release, plese **star** this repo;
-
-**iOS**: will be on APP store soon, name: 【天幕】
 
 
 ## Copyright

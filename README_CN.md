@@ -48,6 +48,41 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+## 下载
+
+
+目前我们已经发布了Android预编译APK，您可以在 https://g.manaai.cn 直接下载。
+
+**Android**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
+
+**macOS**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
+
+**Windows**：敬请期待，将在GitHub发布，请给这个仓库点赞；
+
+**iOS**：即将在App Store上架，名称：【天幕】
+
+
+
+## 关注
+
+微信公众号:
+
+<div align="center">
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/09/10_18_11_20_202309101811096.png" style="border-radius: 10px;">
+</div>
+
+微信交流群:
+
+<div align="center">
+<img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/8_10_58_40_1011696733902_.pic.jpg" style="border-radius: 10px;">
+</div>
+
+长期有效加群链接：
+
+https://wj.qq.com/s2/13009426/d25e/
+
+
 ## ScreenShots
 
 
@@ -67,19 +102,6 @@
 
 **注**: 以上中文翻译由天幕AI完成，可能存在语句不通顺之处。
 
-
-## 下载
-
-
-目前我们已经发布了Android预编译APK，您可以在 https://g.manaai.cn 直接下载。
-
-**Android**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
-
-**macOS**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
-
-**Windows**：敬请期待，将在GitHub发布，请给这个仓库点赞；
-
-**iOS**：即将在App Store上架，名称：【天幕】
 
 
 ## 版权

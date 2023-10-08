@@ -8,7 +8,7 @@
     <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_0_52_icon_256x256.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">天幕 (Tianmu)</h3>
+  <h3 align="center">天幕 (TianMu)</h3>
 
   <p align="center">
     A brand new AI chatting tools available on macOS, Android, iOS, and Windows!
@@ -73,9 +73,9 @@
 
 目前我们已经发布了Android预编译APK，您可以在 https://g.manaai.cn 直接下载。
 
-**Android**：https://g.manaai.cn
+**Android**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
 
-**macOS**：敬请期待，将在GitHub发布，请给这个仓库点赞；
+**macOS**：https://g.manaai.cn 可直接下载，请给仓库点个赞关注最新更新；
 
 **Windows**：敬请期待，将在GitHub发布，请给这个仓库点赞；
 

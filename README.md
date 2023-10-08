@@ -8,7 +8,7 @@
     <img src="https://jihulab.com/godly/fger/-/raw/main/images/2023/10/7_21_0_52_icon_256x256.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Tianmu</h3>
+  <h3 align="center">TianMu</h3>
 
   <p align="center">
     A brand new AI chatting tools available on macOS, Android, iOS, and Windows!
@@ -73,7 +73,7 @@ Currently, we released android prebuilt apk, you can download from: https://g.ma
 
 **Android**: https://g.manaai.cn
 
-**macOS**: stay tuned, will release in github release, plese **star** this repo;
+**macOS**: it now available on https://g.manaai.cn;
 
 **windows**: stay tuned, will release in github release, plese **star** this repo;
 

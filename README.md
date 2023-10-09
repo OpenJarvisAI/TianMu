@@ -76,6 +76,13 @@ WeChat Group:
 </div>
 
 
+## Roadmap
+
+*"TianMu"* was initially designed to deliver a powerful desktop tool for driving LLMs. However, we are not limited to this scope; our ultimate goal is to enable the handling of multi-modal inputs, including images, audio, and potentially video inputs. Some of the tasks we are currently working on include:
+- [ ] Developing a plugin system for calling both remote and mobile plugins;
+- [ ] Integrating image sending support, requiring an MLLM to be prepared;
+- [ ] Implementing news searching functionality, which will assist users in searching for news articles.
+
 
 ## ScreenShots
 

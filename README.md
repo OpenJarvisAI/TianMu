@@ -33,7 +33,7 @@
 
 There are plenty of ChatGPT vendor website for users to use. But none of theme really convenient to use on desktop direclty.
 
-Some of them like ChatBox are pretty good, but the UI is outdated, and there are some limitations on how people share their prompts (commands). Also, it doesn't work well with some OpenSource LLM like 通义千问，文心一言 etc.
+Some of them like ChatBox are pretty good, but the UI is outdated, and there are some limitations on how people share their prompts (commands). Also, it doesn't work well with some OpenSource LLM like LLaMa, Baichuan2 or other commercial model like 通义千问，文心一言 etc.
 
 
 Here's how Tianmu outstanding:

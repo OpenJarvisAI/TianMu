@@ -47,6 +47,19 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 核心功能
+
+- Command for LLM:
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_21_58_7_202310242158266.png)
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_22_3_30_202310242203288.png)
+- Huge Prompt Hub:
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_22_0_25_202310242200181.png)
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_22_1_3_202310242201116.png)
+
+
+# 更新
+- **`2023.10.24`**: 现在我们支持简短命令！您可以在一个聊天窗口中调用各种命令；
+
 
 
 ## 下载

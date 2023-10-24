@@ -48,6 +48,23 @@ And finally, this tool is opensource! You can make any modifications on your own
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+## Key Features
+
+- Command for LLM:
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_21_58_7_202310242158266.png)
+- Huge Prompt Hub:
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_22_0_25_202310242200181.png)
+  ![](https://jihulab.com/godly/fger/-/raw/main/images/2023/10/24_22_1_3_202310242201116.png)
+
+
+
+
+## Updates
+
+- **`2023.10.24`**: Now we support short command! You can call various commands in a single chat window;
+
+
 ## Download
 
 Currently, we released android prebuilt apk, you can download from: https://g.manaai.cn directly.
